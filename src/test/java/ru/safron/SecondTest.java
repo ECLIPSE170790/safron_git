@@ -3,11 +3,10 @@ package ru.safron;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class FirstTest {
+public class SecondTest {
 
     @Test
-    void firstTest() {
+    void secondTest() {
         Assertions.assertTrue(true);
-
     }
 }
